@@ -24,6 +24,11 @@
 				Certaines photos sont manquantes car elles sont endommagées, je vais voir ce que je peux faire :(
 				</article>
 				
+             <article>
+               <p>
+                 TeTest 
+               </p>
+              </article>
 				<article>
 				<h3>La carte</h3>
 				<p>
@@ -31,14 +36,20 @@
 				Il suffit de cliquer sur les indicateurs rouges pour avoir le nom de l'endroit.
 				</p>
 				</article>
+              
 				
+              
 				<article>
 				<h3>Week end à Séoul -- 9-12 avril 2015</h3>
 				<p>
 				En cours d'écriture
 				</p>
 				</article>
+              
+              <article>
 				
+              
+              
 				<article>
 				<h3>Cherry Blosom festival  à Jinhae -- 4 avril 2015</h3>
 				<p>
