@@ -24,11 +24,7 @@
 				Certaines photos sont manquantes car elles sont endommagées, je vais voir ce que je peux faire :(
 				</article>
 				
-             <article>
-               <p>
-                 TeTest 
-               </p>
-              </article>
+   
 				<article>
 				<h3>La carte</h3>
 				<p>
@@ -37,7 +33,14 @@
 				</p>
 				</article>
               
-				
+				<article>
+				<h3>Semaine au Jappn</h3>
+				<h4>Le depart</h4>
+				<p>
+			Ca y est,  c'est le départ!</br>
+			Je vais passer une semaine au Japon avec toute l'équipe. On va visiter Osaka,Nara, Kyoto et Tokyo, tout en passant par le mont Fuji.</br>
+				</p>
+				</article>
               
 				<article>
 				<h3>Week end à Séoul -- 9-12 avril 2015</h3>
