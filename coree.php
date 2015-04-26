@@ -42,6 +42,21 @@
 				</p>
 				</article>
               
+   <article>
+   <h3>Boseong -- 17-18 avril 2015</h3>
+   <p>
+   Boseong est connu pour ses plantations de thé vert. C'est le seul point touristique de cette ville et des alentours. J'ai ainsi pu découvrir la Corée profonde. Pour nous y rendre on a pris un train jusqu'à Masan avant d'en prendre un second pour Boseong. Le deuxieme train etait très particuliers. Il y avait un dragon peint sur le train et à l'interieur tout etait decoré, avec des fleurs jusqu'au plafond.</br>
+   Les plantations sont magnifiques. C'est un lieu très calme, beau et tout en hauteur.</br></br>
+   Nicolas avait reservé une guest-house pour la nuit. On s'y rend et après avoir chercher dans l'unique rue de la ville nous finissons par la trouver. C'est ainsi que l'on se retrouve devant un restaurant apparement fermé. Nous appelons un buddy (un correspondant coréen) et nous lui donnons le numéro. Une dame très agée vient nous ouvrir et grâce à google traduction on parvient a se faire comprendre. La detentrice des lieux est absente et la vielle dame n'est pas au courant de notre arrivée. Après une nouvelle conversation elle fini par appeller la detentrice des lieux puis elle nous donne les clefs de la chambre.</br>
+   On découvre ainsi une piece unique vide à l'exception d'un meuble télé et d'un drap. On a ainsi dormi par terreà 5, sur des draps dans la même pièce. Grâce aux nombreux draps rapportés par la detentrice des lieux et le chauffage par le sol,le tout etait plutôt confortable.</br>
+   Le lendemain nous avons profité du spa au bord de la mer. Nous avons ainsi testé un bain d'eau chaude au thé vert. C'est plutôt sympa à faire, surtout avec la vue sur la mer offerre.</br>
+   Malheuresement, nous n'avons pas pu profiter de la plage. Une fois arrivée à la gare routière, Sarah se rend compte qu'elle a perdu son portefeuille. Je retourne donc avec elle à la guest-house. Par chance nous tombons sur des coréens qui acceptent d'être nos traducteurs au près des corénnes de la guest-housse. Nous avons ainsi retrouver le portefeuille de Sarah qui s'était sournoisement glisser sous les couvertures que nous avions soigneusement pliées.</br>
+   De nouveau à l'arret de bus ke commence à faire du stop tandis que Sarah ecrit une pancarte pour Boseong. Elle n'a meme pas le temps de finir qu'un voiture s'arrête et nous emmène à la gare routière. De la on prend un bus qui nous emène dans une ville où nous retrouvons les autres, attablé au burger king. Nous repartons ensuite pour Daegu.
+   
+   
+   </p>
+   </article>
+   
 				<article>
 				<h3>Week end à Séoul -- 9-12 avril 2015</h3>
 				<p>
@@ -49,7 +64,7 @@
 				</p>
 				</article>
               
-              <article>
+              
 				
               
               
