@@ -40,6 +40,11 @@
 			Ca y est,  c'est le départ!</br>
 			Je vais passer une semaine au Japon avec toute l'équipe. On va visiter Osaka,Nara, Kyoto et Tokyo, tout en passant par le mont Fuji.</br>
 				</p>
+				<h4>première soirée à Osaka -- 26 avril 2015</h4>
+				<p>
+				
+				</p>
+
 				</article>
               
    <article>
