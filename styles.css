@@ -21,8 +21,9 @@ margin: 0 auto;
 
 header {
 width: 100%;
-height: 200px;
-background: #ddd url(images/headerimg.jpg) repeat-x left top;
+height: 500px;
+//background: #ddd url(images/headerimg.jpg) repeat-x left top;
+background: #7E4C1F;	
 }
 
 #main {

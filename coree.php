@@ -13,10 +13,14 @@
 	
 	<header>
 	<?php include("nav_haut.php"); ?>
+	<embed type="application/x-shockwave-flash" src="https://photos.gstatic.com/media/slideshow.swf" width="100%" height="450" flashvars="host=picasaweb.google.com&hl=fr&feat=flashalbum&RGB=0x7E4C1F&feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F113503166789331928982%2Falbumid%2F6148981894179502817%3Falt%3Drss%26kind%3Dphoto%26hl%3Dfr" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+	
+	
 	</header>
 	
 		<section id="main">	
 			<section id="content">
+			
 			<iframe src="https://www.google.com/maps/d/embed?mid=z38YJla6AcBA.kqj9VhK0IjPM" height="480"></iframe>
 				<article>
 				Une galerie photo est à venir.<br />
